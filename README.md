@@ -4,7 +4,7 @@ This program is a bmp V3 image handler. At the input of the program in the conso
 ## Program launch
 1. Clone the repository
 2. Go to the src folder
-3. Run command 'make'. This will produce the 'picture_handler' executable.
+3. Run command `make`. This will produce the 'picture_handler' executable.
 4. Run the 'file picture_handler'.
 
 ## Program operation
@@ -54,7 +54,7 @@ Examples of the program can be found in [folder](https://github.com/jendos2001/C
 ## Запуск программы
 1. Склонировать репозиторий
 2. Перейти в папку src
-3. Выполнить команду make. Получится исполняемый файл picture_handler.
+3. Выполнить команду `make`. Получится исполняемый файл picture_handler.
 4. Запустить файл picture_handler.
 
 ## Работа программы
